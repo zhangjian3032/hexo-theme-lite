@@ -30,7 +30,7 @@ menu:
   Home: true
   Archives: true
   Categories: false
-  Tags: false
+  Tags: true
 
   # Custom Menu
   # '/index' can be omitted
@@ -39,6 +39,7 @@ menu:
   # [X]  About: /about/index       (need '/pages' as prefix)
   # [O]  About: /pages/about/index (preferred)
   # [O]  About: /pages/about
+  跑步日记: /pages/running/0504
   About: /pages/about/index
 
 menu_icons:
