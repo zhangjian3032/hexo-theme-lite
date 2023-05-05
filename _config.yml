@@ -4,7 +4,7 @@
 
 avatar:
   enable: true
-  url: /static/images/kamuyi.jpg
+  url: /static/images/jian.jpg
 
 background:
   background_color: '#ffffff'
@@ -39,7 +39,7 @@ menu:
   # [X]  About: /about/index       (need '/pages' as prefix)
   # [O]  About: /pages/about/index (preferred)
   # [O]  About: /pages/about
-  # About: /pages/about/index
+  About: /pages/about/index
 
 menu_icons:
   enable: true
@@ -82,7 +82,7 @@ theme_layout:
 # -------------------------------------------------------
 
 social:
-  github: https://github.com/heskeybaozi
+  github: https://github.com/zhangjian3032
   weibo: http://weibo.com/52hezhiyu
 
   # Email link, reference to https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#E-mail_links
@@ -94,7 +94,7 @@ social_icons:
   # icon name docs: http://fontawesome.io/icons/
   github: fa-github-alt
   weibo: fa-weibo
-  email: fa-envelope
+  email: zhangjian3032@gmail.com
   wechat: fa-weixin
   qq: fa-qq
 
